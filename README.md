@@ -14,11 +14,11 @@ We suggest not creating threads on Mastodon or mentioning our mods/operators bec
 
 ### What to do if you think your instance is blocked?
 
-Check the [about page](https://hachyderm.io/about) to verify your suspician. If you are still unsure [just as in our community tracker](https://github.com/hachyderm/community/issues) and we will get back to you as soon as we have time.
+Check the [about page](https://hachyderm.io/about) to verify your suspicion. If you are still unsure [just ask in our community tracker](https://github.com/hachyderm/community/issues) and we will get back to you as soon as we have time.
 
 ### What to do if you would like to remove an instance from our blocklist?
 
 We make mistakes, and we have discovered that a large amount of problems has stemmed from folks reading too much into our moderation policies.
 There is a good chance instances were blocked and have since been unblocked by our team. 
 
-If you believe that there is still an instance that you need to be unblocked you should [open an issue in our community tracker](https://github.com/hachyderm/community/issues). We have unblocked over 10 instances just because somebody brought the problem to our attention in the tracker where one of the mods could review it.
+If you believe that there is still an instance that you need to have unblocked you should [open an issue in our community tracker](https://github.com/hachyderm/community/issues). We have unblocked over 10 instances just because somebody brought the problem to our attention in the tracker where one of the mods could review it.
